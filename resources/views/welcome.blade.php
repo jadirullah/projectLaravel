@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Mau coba buat project laravel</div>
             </div>
         </div>
     </body>
